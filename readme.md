@@ -1,1 +1,30 @@
-Olá! Este projeto pertence ao programa de bolsas da compasso. Consiste em uma calculadora feita usando a linguagem Ruby. Por isso, para rodar o projeto é necessário ter a linguagem configurada a funcionando em sua máquina, juntamente de um editor de código de sua preferência. A calculadora realiza as quatro principais operações matemáticas. Também realizei TDD's, que são basicamente testes de funcionamento no projeto.
+# Calculadora e TDD's usando Ruby
+
+## Descrição
+
+O projeto consiste em uma calculadora feita usando a linguagem ruby. Também foram desenvolvidos TDD's, testes de funcionamento para averiguar as quatro operações matemáticas.
+
+## Instalação
+Para rodar o projeto é necessário instalar o ruby em sua máquina - bem como um editor de código de sua preferência. Também é necessário o uso do Git. Como recomendação, deve-se usar o VSCode e instalar as extensões:
+```python
+- Ruby
+- Snippets and Syntax Highlight for Gherkin (Cucumber)
+- Gherkin Indent
+- EditorConfig
+- Ruby Solargraph
+- Material Icon Theme (caso preferir)
+```
+
+## Tecnologias Utilizadas
+
+- Ruby
+- VSCode
+- Git
+- Git hub
+
+## Autor do Projeto
+
+Tomás Biasotto
+
+- https://github.com/tomasnz
+- https://www.linkedin.com/in/tomasbiasotto2003/
